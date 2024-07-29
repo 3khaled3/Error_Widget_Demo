@@ -6,6 +6,9 @@ This Flutter application includes custom error handling to report issues encount
 
 The application uses a custom error widget to handle and display errors gracefully. In debug mode, errors are shown directly, while in release mode, a user-friendly error screen is displayed with an option to send an error report.
 
+![d__flutter_linkdin Demos_friendly_error_widget_lib_doc](https://github.com/user-attachments/assets/42811df0-1741-4142-8caa-c638680cfb5e)
+
+
 ## Error Handling Implementation
 
 The error handling logic is implemented in the `main.dart` file. Below is the relevant code snippet:
